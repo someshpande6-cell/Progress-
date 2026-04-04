@@ -1,6 +1,5 @@
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/2bd6489f-4928-45a4-bf4c-104a0547fa2b" />
 
-
 Step 1: Start a New Sketch
 •	Open SolidWorks → New Part 
 •	Select Front Plane 
