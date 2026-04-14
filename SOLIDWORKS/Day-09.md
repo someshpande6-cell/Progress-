@@ -21,7 +21,7 @@ Draw a rectangular cut profile for the first internal gap (top section)
 Dimensions used: Width and height of the cut
 Plane: Front face
 
-Step 4: Extruded Cut (Top Slot)
+Step 4: Extruded Cut (Top-Slot)
 Perform Cut-Extrude
 Remove material inward
 End condition: Through All
