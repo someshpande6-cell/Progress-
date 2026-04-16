@@ -59,7 +59,7 @@ Radial slots
 Keyway slot (4 mm)
 Ensure cuts go Through All.
 
-Summary
+Summary:
 This model is created using a radial symmetry approach:
 Start with concentric circles (hub + outer body)
 Add functional features (slots, keyway)
