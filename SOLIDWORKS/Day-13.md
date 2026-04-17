@@ -33,11 +33,13 @@ Radius = R41 mm
 Angle = 120°
 End arcs radius = R9 mm
 Ensure slot is concentric with the top arc.
+
 Step 6: Bottom Slot
 Draw a horizontal slot at the bottom.
 Length = 45 mm
 End radii = R12 mm
 Vertical position from base = 23 mm
+
 Step 7: Define Dimensions & Constraints
 Apply all given dimensions:
 Horizontal offset = 60 mm
@@ -47,20 +49,22 @@ Tangent
 Horizontal & vertical
 Symmetry
 Ensure sketch is Fully Defined.
+
 Step 8: Boss-Extrude
 Exit sketch.
 Apply Boss-Extrude.
 Set required thickness (as per design).
+
 Step 9: Cut Features (if required)
 Use Cut-Extrude for:
 Central hole
 Top curved slot
 Bottom slot
 Set Through All for clean cuts.
+
 Summary
 
 This model is built using a single complex sketch approach:
-
 Start with outer profile
 Add internal features (holes & slots)
 Use arcs and tangency for smooth geometry
