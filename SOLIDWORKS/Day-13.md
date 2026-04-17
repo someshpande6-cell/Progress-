@@ -1,6 +1,7 @@
 <img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/f522e219-35b4-41be-8eae-20013ca1fccb" />
 
 Step-by-Step SolidWorks Modeling Explanation
+
 Step 1: Base Profile Sketch
 Select the Front Plane.
 Start sketching the outer profile using lines and arcs.
@@ -8,20 +9,24 @@ Overall height = 78 mm
 Lower width section height = 54 mm
 Use arc radius R23 mm at the bottom corners.
 Ensure symmetry about the vertical centerline.
+
 Step 2: Top Circular Arc
 Draw a top semicircular arc.
 Outer diameter = Ø123 mm.
 Connect smoothly with vertical sides using tangent relations.
+
 Step 3: Side Cut Arcs
 On both left and right sides, create semi-circular cutouts.
 Diameter = Ø36 mm.
 Position them symmetrically.
+
 Step 4: Central Hole
 Draw a circle at the center.
 Diameter = Ø36 mm.
 Position it using:
 Horizontal reference from centerline
 Vertical offset = 22 mm from top section
+
 Step 5: Top Curved Slot
 Create an arc slot at the top.
 Radius = R41 mm
