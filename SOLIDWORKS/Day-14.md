@@ -41,19 +41,23 @@ Outer = Ø26 mm
 Inner holes = Ø14 mm
 Distance between outer edges = 54 mm
 Offset from center = 27 mm
+
 Step 7: Additional Holes
 Add central hole:
 Diameter = Ø32 mm
 Add small middle hole between top and large circle.
+
 Step 8: Overall Height Control
 Total height of model = 120 mm
 Ensure all features align vertically and symmetrically.
+
 Step 9: Apply Relations & Fully Define
 Use:
 Symmetry
 Tangent relations
 Horizontal/Vertical constraints
 Ensure sketch becomes Fully Defined.
+
 Step 10: Boss-Extrude
 Exit sketch.
 Apply Boss-Extrude to required thickness.
