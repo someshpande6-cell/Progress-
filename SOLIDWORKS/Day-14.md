@@ -1,12 +1,14 @@
 <img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/6835e7da-c80b-4fb1-b242-c542f78b0790" />
 
 Step-by-Step SolidWorks Modeling Explanation
+
 Step 1: Base Profile Sketch
 Select the Front Plane.
 Sketch the lower rectangular base.
 Width = 62 mm
 Height from bottom to mid = 65 mm
 Add bottom corner fillets/rounds as shown.
+
 Step 2: Side Step and Bottom Features
 Create small side cut/arc:
 Diameter = Ø8 mm
@@ -14,10 +16,12 @@ Add vertical rectangular slot:
 Width = 8 mm
 Position from base = 10 mm
 Right-side step height = 15 mm, upper step = 20 mm
+
 Step 3: Middle Circular Feature
 Draw a circle in the center:
 Diameter = Ø30 mm
 Position it vertically aligned with centerline.
+
 Step 4: Upper Body Profile
 Extend sketch upward to form the neck region.
 Use smooth arcs to connect lower and upper sections.
