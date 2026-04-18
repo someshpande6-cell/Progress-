@@ -27,12 +27,14 @@ Extend sketch upward to form the neck region.
 Use smooth arcs to connect lower and upper sections.
 Apply dimension:
 Neck transition height = 28 mm
+
 Step 5: Top Circular Boss Area
 Draw the main top circle:
 Diameter = Ø26 mm
 Add outer arc:
 Radius = R22 mm
 Maintain symmetry across vertical axis.
+
 Step 6: Side Circular Extensions
 Draw two side circles:
 Outer = Ø26 mm
