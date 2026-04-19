@@ -48,5 +48,4 @@ Apply Fillet to outer edges if required.
 Ensure smooth transitions between arcs and bosses.
 
 Final Summary
-
 The model is created by first building a fully defined 2D sketch consisting of concentric circles, bolt patterns, and outer contours. This sketch is then extruded to form the base solid, followed by cut-extrude operations to generate holes. The design mainly uses circular patterns, tangent arcs, and symmetry to maintain accuracy and uniformity.
