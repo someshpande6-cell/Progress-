@@ -52,9 +52,10 @@ Central hole
 Bolt holes
 Bottom holes
 Apply Cut-Extrude → Through All.
+
 Step 10: Finishing
 Add Fillets if required for smooth edges.
 Ensure symmetry and clean transitions.
-Final Summary
 
+Final Summary
 The model is created using a central hub with a bolt circle pattern, combined with symmetrical outer bosses and lower support circles. The design relies heavily on circular patterns, tangent arcs, and proper dimensioning to achieve a balanced and fully defined geometry.
