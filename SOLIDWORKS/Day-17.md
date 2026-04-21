@@ -33,13 +33,15 @@ Step 6: Top Hole on Base (Cut-Extrude)
 Select the top face of the base plate.
 Sketch a circle at the required position.
 Apply Cut-Extrude → Through All to create the hole.
+
 Step 7: Additional Bottom Cut (Cut-Extrude)
 Select the bottom or side face of the base.
 Sketch a rectangular slot.
 Perform Cut-Extrude to create the bottom notch feature.
+
 Step 8: Fillet (Edge Finishing)
 Apply Fillet to the edges of the semi-circular support and base where required.
 This smooths sharp edges and improves the design.
-Final Summary
 
+Final Summary
 The model is created by first building a rectangular base, followed by adding a central vertical support with a semi-circular top. Multiple cut-extrude operations are used to create holes and notches. The design combines basic extrusions, cuts, and fillets to form a simple mechanical support bracket.
