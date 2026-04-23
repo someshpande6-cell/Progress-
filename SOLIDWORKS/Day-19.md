@@ -31,27 +31,32 @@ Select the top face at rear end → Sketch
 Draw a rectangle
 Add a semicircle on top (using arc)
 Fully define dimensions
+
 6. Extrude First Lug
 Go to Extruded Boss/Base
 Set thickness (same as one lug width)
 Click OK
+
 7. Create Second Lug
 Use Mirror Feature
 Select Front Plane (or mid-plane)
 Mirror the first lug
 OR manually sketch and extrude the second lug
+
 8. Create Holes in Lugs
 Select side face of lug → Sketch
 Draw a circle
 Dimension properly
 Use Extruded Cut → Through All
 Apply Mirror if needed to copy hole on second lug
+
 9. Apply Fillets
 Go to Features → Fillet
 Apply fillets to:
 Base edges
 Lug edges
 Improves smoothness and realism
+
 10. Final Checks
 Ensure:
 Sketch is Fully Defined
