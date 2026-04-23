@@ -13,16 +13,19 @@ Select Top Plane → Sketch
 Draw a center rectangle
 Add a semicircle on one end to form a rounded base
 Use Smart Dimension to define length and width
+
 3. Extrude Base
 Go to Features → Extruded Boss/Base
 Set required thickness (e.g., 10–15 mm)
 Click OK
+
 4. Create Slot (Cut Feature)
 Select top face → Sketch
 Use Straight Slot tool
 Place slot at the center of the base
 Dimension its length and width
 Go to Features → Extruded Cut → Through All
+
 5. Create First Lug (Vertical Support)
 Select the top face at rear end → Sketch
 Draw a rectangle
