@@ -7,17 +7,20 @@ Step-by-Step SolidWorks Modeling Explanation
 Step 1: Start New Part
 Open SolidWorks → New → Part
 Set units to MMGS (millimeters)
+
 Step 2: Create Cylindrical Base
 Select Top Plane → Sketch
 Draw a circle (outer diameter)
 Use Smart Dimension to define size
 Go to Features → Extruded Boss/Base
 Set height to form the cylinder
+
 Step 3: Create Central Hole
 Select top face of cylinder → Sketch
 Draw a smaller concentric circle
 Use Extruded Cut → Through All
 This creates the hollow cylindrical portion
+
 Step 4: Create Rectangular Arm
 Select Top Plane or side face → Sketch
 Draw a rectangle extending from the cylinder
