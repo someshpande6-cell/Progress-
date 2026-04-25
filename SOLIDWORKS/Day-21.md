@@ -27,27 +27,31 @@ Draw a rectangle extending from the cylinder
 Ensure it is properly aligned (use relations)
 Go to Extruded Boss/Base
 Set same thickness as base (or required value)
+
 Step 5: Create Slot Opening
 Select top face of rectangular arm → Sketch
 Draw a rectangle (slot opening) inside the arm
 Use Extruded Cut → Through All
 This forms the rectangular cavity
+
 Step 6: Create Semi-Cylindrical Groove
 Select front face of the arm → Sketch
 Draw a semi-circle
 Position it at the center of the slot
 Use Extruded Cut → Through All
 This creates the curved inner seat
+
 Step 7: Apply Fillets (Optional but Recommended)
 Go to Features → Fillet
 Apply fillets to:
 Edges of cylinder
 Edges of slot and groove
 Improves finish and realism
+
 Step 8: Final Check
 Ensure all sketches are Fully Defined
 Verify feature tree has no errors
 Save the model
-✅ Final Output
 
+✅ Final Output
 A cylindrical mount with a hollow center and a slotted arm featuring a semi-circular groove, commonly used for pipe holding, shaft support, or mechanical fixtures.
